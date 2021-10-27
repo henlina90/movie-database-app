@@ -1,10 +1,11 @@
 # Project description: WeLoveMovies
+### Summary
+WeLoveMovies is a web application which involed setting up a database and building out specific routes so that users can gain access to data about movies, theaters, and reviews. This project was created as my back-end capstone project for Thinkful's Software Engineering program.
+
 Live: [https://movies-capstone-frontend.herokuapp.com](https://movies-capstone-frontend.herokuapp.com)
 
 ### Objective
-A back-end project designed to test my ability to build complex servers and access data through a database. 
-
-By successfully completing this project, I demonstrated that I can do the following:
+By completing this project, I demonstrated my ability to build complex servers and access data through a database:
 
 - Install and use common middleware packages
 - Receive requests through routes
