@@ -1,11 +1,11 @@
-# Project description: WeLoveMovies
+# Movie Database Application: We-love-movies
 ### Summary
-WeLoveMovies is a web application which involed setting up a database and building out specific routes so that users can gain access to data about movies, theaters, and reviews. This project was created as my back-end capstone project for Thinkful's Software Engineering program.
+[We-love-movies](https://movies-capstone-frontend.herokuapp.com) is a movie website in which I built the backend portion allowing users to search for movies.
 
-Live: [https://movies-capstone-frontend.herokuapp.com](https://movies-capstone-frontend.herokuapp.com)
+![Screenshot](/screenshot.png)
 
 ### Objective
-By completing this project, I demonstrated my ability to build complex servers and access data through a database:
+Building complex servers and accessing data through a database:
 
 - Install and use common middleware packages
 - Receive requests through routes
@@ -20,14 +20,15 @@ By completing this project, I demonstrated my ability to build complex servers a
 - Write database migrations using Knex's migration tool
 - Deploy your backend server to a cloud service
 
-### Technologies
-PostgreSQL, Node.js, Express.js, Knex.js, Heroku
+### Key Technologies
+* PostgreSQL
+* Node.js
+* Express.js
+* Knex.js
+* Heroku
 
 ### Installation
 1. Fork/clone this repo
 2. `npm install`
 
 Use `npm start` to run the application.
-
-### 
-![Screenshot](/WeLoveMovies.png)
