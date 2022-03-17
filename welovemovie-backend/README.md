@@ -1,1 +1,1 @@
-# WeLoveMovies-capstone
+# Movie Database Application: Backend
