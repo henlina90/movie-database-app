@@ -20,7 +20,7 @@ function MoviesList() {
     // cleanup
   }, []);
 
-  // mapping through an array of movies 
+  // mapping through an array of movies with jsx
   const list = movies.map((movie) => (
     <article key={movie.movie_id} className="col-sm-12 col-md-6 col-lg-3 my-2">
       <img
